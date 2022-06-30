@@ -4,7 +4,7 @@
 <img src="./images/helloworld.png" align="center" style="width: 100%" />
 </div>  
 <br/>
-<p><center>欢迎我的第<img align="center" src="https://profile-counter.glitch.me/SAH01/count.svg">位访客!</center></p><br>
+<!-- <p><center>欢迎我的第<img align="center" src="https://profile-counter.glitch.me/SAH01/count.svg">位访客!</center></p><br> -->
 
 ## 后端工程师 — 靠谱杨🙈
 
