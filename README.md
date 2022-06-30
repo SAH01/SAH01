@@ -1,6 +1,10 @@
 
 
-<p><center>欢迎我的第 <img align="center" src="https://profile-counter.glitch.me/SAH01/count.svg"> 位访客!</center></p>
+<div align="center">
+<img src="./images/helloworld.png" align="center" style="width: 100%" />
+</div>  
+<br/>
+<p><center>欢迎我的第<img align="center" src="https://profile-counter.glitch.me/SAH01/count.svg">位访客!</center></p><br>
 
 ## 后端工程师 — 靠谱杨🙈
 
@@ -66,7 +70,7 @@
 
 <br>
 
-### github stats
+### Github Stats
 
 ![SAH01's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAH01&show_icons=true&theme=tokyonight)
 
@@ -79,7 +83,54 @@
 
 <br>
 
-### Github 活跃度
+### My Skill Set  
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+</div>  
+
+<br/>
+
+### Github Contribution
 
 [![](https://activity-graph.herokuapp.com/graph?username=SAH01&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
+
+---
+
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SAH01&&style=flat-square" align="center" />
+</div>    
+<div align="center">
+            <a href="https://paypal.me/reliableyang" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+
+
+----
+
+
+
