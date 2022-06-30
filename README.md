@@ -1,16 +1,17 @@
 <img align="right" src="https://count.getloli.com/get/@:SAH01?theme=rule34">
 
-## 后端工程师—小杨
+## 后端工程师—靠谱杨
 
-热爱前端、热爱技术。工作经验9个月。喜欢参与一些开源项目的讨论。
+热爱后端、热爱技术。
+为人谦逊、胆大心细。
 
-### **社交主页：**
+### 博客园主页：
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="400" height="100%" />
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 30 篇技术文章，7万阅读
+- <a href="https://www.cnblogs.com/rainbow-1/"><code><img height="20" width="50" src="./images/cnblogs.svg"></code></a>：发表了 485 篇技术文章，11万阅读
 
-### **技术栈:**
+### 技术栈:
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
