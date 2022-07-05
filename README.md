@@ -29,7 +29,7 @@
 
 <br>
 
-<br>
+<br><br><br><br><br>
 
 <hr>
 
@@ -37,12 +37,7 @@
 > 专业核心课程：算法与数据结构，数据库原理，软件工程概论，统一建模语言，软件需求与分析，软件构造，人机交互技术，软件设计，软件体系结构，软件测试技术，软件过程与管理，操作系统，计算机网络。
 
 <hr>
-
-<br>
-
 ### 主页：
-
- <img align="right" alt="GIF" src="./images/code.gif" width="400" height="100%" /><br>
 
 
 - <a href="https://www.cnblogs.com/rainbow-1/"><code><img  height="30" src="./images/cnblogs.svg"></code></a>：发表 485 篇技术文章，11万阅读。数十篇随笔被推荐至网站首页，多篇随笔被各网站转载。<br>
@@ -55,7 +50,8 @@
 **SpringBoot** <a href="https://spring.io/projects/spring-boot"><code><img height="25" src="./images/spring.svg"></code></a><br>
 **Mybatis** <a href="https://mybatis.org/mybatis-3/"><code><img height="25" src="./images/mybatis-logo.png"></code></a><br>
 **Mybatis-Plus** <a href="https://www.mybatis-plus.com/"><code><img height="25" src="./images/mybatis-plus.svg"></code></a><br>
-**Mysql** <a href="https://www.mysql.com/"><code><img height="25" src="./images/mysql-logo.png"></code></a><br>
+
+<img align="right" alt="GIF" src="./images/code.gif" width="400" height="100%" />**Mysql** <a href="https://www.mysql.com/"><code><img height="25" src="./images/mysql-logo.png"></code></a><br>
 **Redis** <a href="https://redis.io/"><code><img height="25" src="./images/redis.png"></code></a><br>
 **Layui** <a href="https://www.layuiweb.com/index.htm"><code><img height="25" src="./images/layui-logo.png"></code></a><br>
 **Flask** <a href="https://flask.net.cn/"><code><img height="25" src="./images/flask-logo.png"></code></a><br>
