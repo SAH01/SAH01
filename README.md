@@ -5,7 +5,7 @@
 </div>  
 <br/>
 
-<p><center>欢迎我的第<img align="center" src="https://profile-counter.glitch.me/SAH01/count.svg">位访客!</center></p><br>
+欢迎我的第<img align="center" src="https://profile-counter.glitch.me/SAH01/count.svg">位访客!
 
 ## 后端工程师 — 靠谱杨🙈
 
