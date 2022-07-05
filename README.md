@@ -5,8 +5,6 @@
 </div>  
 <br/>
 
-欢迎我的第<img align="center" src="https://profile-counter.glitch.me/SAH01/count.svg">位访客!
-
 ## 后端工程师 — 靠谱杨🙈
 
 热爱后端、热爱技术。
