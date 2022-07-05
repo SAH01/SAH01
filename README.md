@@ -4,16 +4,33 @@
 <img src="./images/helloworld.png" align="center" style="width: 100%" />
 </div>  
 <br/>
-<!-- <p><center>欢迎我的第<img align="center" src="https://profile-counter.glitch.me/SAH01/count.svg">位访客!</center></p><br> -->
+
+<p><center>欢迎我的第<img align="center" src="https://profile-counter.glitch.me/SAH01/count.svg">位访客!</center></p><br>
 
 ## 后端工程师 — 靠谱杨🙈
 
-热爱生活、热爱技术；
-脚踏实地、胆大心细。
+热爱后端、热爱技术。
+为人谦逊、胆大心细。
 
 :e-mail: : bitter_7@163.com
 
+**VX** :
+
+<img align="left" alt="GIF" src="./images/vx.jpg" width="233" height="100%" />
 ---
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 > CET4：545 / CET6：510
 > 专业核心课程：算法与数据结构，数据库原理，软件工程概论，统一建模语言，软件需求与分析，软件构造，人机交互技术，软件设计，软件体系结构，软件测试技术，软件过程与管理，操作系统，计算机网络。
@@ -22,7 +39,8 @@
 
 ### 主页：
 
- <img align="right" alt="GIF" src="./images/code.gif" width="400" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="400" height="100%" /><br>
+ <hr>
 
 - <a href="https://www.cnblogs.com/rainbow-1/"><code><img  height="30" src="./images/cnblogs.svg"></code></a>：发表 485 篇技术文章，11万阅读。数十篇随笔被推荐至网站首页，多篇随笔被各网站转载。<br>
 - <a href="https://gitee.com/yang-chuanwei"><code><img  height="30" src="./images/gitee-logo.svg"></code></a><br>
@@ -120,7 +138,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SAH01&&style=flat-square" align="center" />
-</div><br>   
+</div><br>    
 <div align="center">
             <a href="https://paypal.me/reliableyang" target="_blank" style="display: inline-block;">
                 <img
