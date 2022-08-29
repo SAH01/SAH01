@@ -17,7 +17,7 @@
 
 **VX** :
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/vx.jpg" width="233" height="100%" />
+<img align="left" alt="GIF" src="./images/vx.jpg" width="233" height="100%" />
 <br>
 
 <br>
@@ -43,26 +43,26 @@
 
 ### 主页：
 
-- <a href="https://www.cnblogs.com/rainbow-1/"><code><img  height="30" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/cnblogs.svg"></code></a>：发表 500+篇技术文章，13万+阅读。数十篇随笔被推荐至网站首页，多篇随笔被各网站转载。<br>
-- <a href="https://gitee.com/yang-chuanwei"><code><img  height="30" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/gitee-logo.svg"></code></a><br>
+- <a href="https://www.cnblogs.com/rainbow-1/"><code><img  height="30" src="./images/cnblogs.svg"></code></a>：发表 500+篇技术文章，13万+阅读。数十篇随笔被推荐至网站首页，多篇随笔被各网站转载。<br>
+- <a href="https://gitee.com/yang-chuanwei"><code><img  height="30" src="./images/gitee-logo.svg"></code></a><br>
 
 ### 技术栈：
 
-**Spring** <a href="https://spring.io/projects/spring-framework"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/spring.svg"></code></a><br>
-**Spring Web MVC** <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/web.html"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/spring.svg"></code></a><br>
-**SpringBoot** <a href="https://spring.io/projects/spring-boot"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/spring.svg"></code></a><br>
-**Mybatis** <a href="https://mybatis.org/mybatis-3/"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/mybatis-logo.png"></code></a><br>
-**Mybatis-Plus** <a href="https://www.mybatis-plus.com/"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/mybatis-plus.svg"></code></a><br>
+**Spring** <a href="https://spring.io/projects/spring-framework"><code><img height="25" src="./images/spring.svg"></code></a><br>
+**Spring Web MVC** <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/web.html"><code><img height="25" src="./images/spring.svg"></code></a><br>
+**SpringBoot** <a href="https://spring.io/projects/spring-boot"><code><img height="25" src="./images/spring.svg"></code></a><br>
+**Mybatis** <a href="https://mybatis.org/mybatis-3/"><code><img height="25" src="./images/mybatis-logo.png"></code></a><br>
+**Mybatis-Plus** <a href="https://www.mybatis-plus.com/"><code><img height="25" src="./images/mybatis-plus.svg"></code></a><br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/code.gif" width="400" height="100%" />**Mysql** <a href="https://www.mysql.com/"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/mysql-logo.png"></code></a><br>
-**Redis** <a href="https://redis.io/"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/redis.png"></code></a><br>
-**Layui** <a href="https://www.layuiweb.com/index.htm"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/layui-logo.png"></code></a><br>
-**Flask** <a href="https://flask.net.cn/"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/flask-logo.png"></code></a><br>
-**Shiro** <a href="https://shiro.apache.org/"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/apache-shiro-logo.png"></code></a><br>
-**Tomcat** <a href="https://tomcat.apache.org/"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/tomcat.png"></code></a><br>
-**Selenium** <a href="https://www.selenium.dev/"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/selenium-logo.png"></code></a><br>
-**Hadoop** <a href="https://hadoop.apache.org/"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/hadoop-logo.jpg"></code></a><br>
-**Linux** <a href="https://www.linux.org/"><code><img height="25" src="https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/linux-logo.png"></code></a><br>
+<img align="right" alt="GIF" src="./images/code.gif" width="400" height="100%" />**Mysql** <a href="https://www.mysql.com/"><code><img height="25" src="./images/mysql-logo.png"></code></a><br>
+**Redis** <a href="https://redis.io/"><code><img height="25" src="./images/redis.png"></code></a><br>
+**Layui** <a href="https://www.layuiweb.com/index.htm"><code><img height="25" src="./images/layui-logo.png"></code></a><br>
+**Flask** <a href="https://flask.net.cn/"><code><img height="25" src="./images/flask-logo.png"></code></a><br>
+**Shiro** <a href="https://shiro.apache.org/"><code><img height="25" src="./images/apache-shiro-logo.png"></code></a><br>
+**Tomcat** <a href="https://tomcat.apache.org/"><code><img height="25" src="./images/tomcat.png"></code></a><br>
+**Selenium** <a href="https://www.selenium.dev/"><code><img height="25" src="./images/selenium-logo.png"></code></a><br>
+**Hadoop** <a href="https://hadoop.apache.org/"><code><img height="25" src="./images/hadoop-logo.jpg"></code></a><br>
+**Linux** <a href="https://www.linux.org/"><code><img height="25" src="./images/linux-logo.png"></code></a><br>
 
 ### 项目经历：
 
@@ -190,7 +190,6 @@
                     align="center"
                 />
             </a></div>
-
 
 
 ----
