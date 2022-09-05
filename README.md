@@ -15,26 +15,19 @@
 
 :e-mail: : bitter_7@163.com
 
-**VX** :
+**VX** :<br/>
 
-<img align="left" alt="GIF" src="./images/vx.jpg" width="233" height="100%" />
-<br>
+<img align="left" alt="GIF" src="./images/vx.jpg" width="210" height="100%" />
 
-<br>
+<br/>
 
-<br>
+**公众号**：<br/>
 
-<br>
-
-<br>
+<img align="left" alt="GIF" src="./images/qrcode.jpg" width="220" height="100%" />
 
 <br>
-
-<br><br><br><br><br>
 
 <hr>
-
-
 > CET4：545 / CET6：510
 > 专业核心课程：算法与数据结构，数据库原理，软件工程概论，统一建模语言，软件需求与分析，软件构造，人机交互技术，软件设计，软件体系结构，软件测试技术，软件过程与管理，操作系统，计算机网络。
 
