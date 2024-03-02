@@ -11,7 +11,7 @@
 热爱后端、热爱技术。
 为人谦逊、胆大心细。
 
-我的主页：https://www.reliableyang.cn/
+我的主页：[https://www.reliableyang.cn/](https://blog.51cto.com/reliableyang)
 
 :e-mail: : bitter_7@163.com
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-**公众号**：<br/>
+**我的公众号【靠谱杨阅读人生】**：<br/>
 
 <img align="left" alt="GIF" src="./images/qrcode.jpg" width="220" height="100%" />
 
@@ -36,13 +36,12 @@
 
 ### 主页：
 
-- <a href="https://www.cnblogs.com/rainbow-1/"><code><img  height="30" src="./images/cnblogs.svg"></code></a>：发表 500+篇技术文章，13万+阅读。数十篇随笔被推荐至网站首页，多篇随笔被各网站转载。<br>
+- <a href="https://www.cnblogs.com/rainbow-1/"><code><img  height="30" src="./images/cnblogs.svg"></code></a>：发表 500+篇技术文章，25万+阅读。数十篇随笔被推荐至网站首页，多篇随笔被各大其他技术网站转载。<br>
 - <a href="https://gitee.com/yang-chuanwei"><code><img  height="30" src="./images/gitee-logo.svg"></code></a><br>
 
 ### 技术栈：
 
 **Spring** <a href="https://spring.io/projects/spring-framework"><code><img height="25" src="./images/spring.svg"></code></a><br>
-**Spring Web MVC** <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/web.html"><code><img height="25" src="./images/spring.svg"></code></a><br>
 **SpringBoot** <a href="https://spring.io/projects/spring-boot"><code><img height="25" src="./images/spring.svg"></code></a><br>
 **Mybatis** <a href="https://mybatis.org/mybatis-3/"><code><img height="25" src="./images/mybatis-logo.png"></code></a><br>
 **Mybatis-Plus** <a href="https://www.mybatis-plus.com/"><code><img height="25" src="./images/mybatis-plus.svg"></code></a><br>
@@ -51,7 +50,6 @@
 **Redis** <a href="https://redis.io/"><code><img height="25" src="./images/redis.png"></code></a><br>
 **Layui** <a href="https://www.layuiweb.com/index.htm"><code><img height="25" src="./images/layui-logo.png"></code></a><br>
 **Flask** <a href="https://flask.net.cn/"><code><img height="25" src="./images/flask-logo.png"></code></a><br>
-**Shiro** <a href="https://shiro.apache.org/"><code><img height="25" src="./images/apache-shiro-logo.png"></code></a><br>
 **Tomcat** <a href="https://tomcat.apache.org/"><code><img height="25" src="./images/tomcat.png"></code></a><br>
 **Selenium** <a href="https://www.selenium.dev/"><code><img height="25" src="./images/selenium-logo.png"></code></a><br>
 **Hadoop** <a href="https://hadoop.apache.org/"><code><img height="25" src="./images/hadoop-logo.jpg"></code></a><br>
@@ -86,7 +84,7 @@
 
          <br>
 
-2. **树懒电影网站（已以第一著作权人身份申请软件著作权）**
+2. **树懒电影网站（软件著作权登记号2022SR0574174）**
     承担后端技术开发工作（数据爬取、分析，数据库设计、逻辑设计）<br>
     2021.03 - 2021.06<br>
 
@@ -115,7 +113,7 @@
 4. **个人博客系统**
 
     **开发环境**：IDEA、JDK1.8、Git<br>
-    **软件架构**：SpringBoot+Redis+Vue+Spring Security+MySQL+Vue<br>
+    **软件架构**：SpringBoot + Redis + Spring Security + MySQL+ Vue<br>
     **项目角色**：Java后端开发<br>
     **项目描述**：项目主要提供包含但不限于写文章、标签管理、分类管理、最新最热文章、评论和归档等一系列
     功能模块，基本可以满足一个个人博客的使用需求。<br>
@@ -124,6 +122,15 @@
     常拦截、统一登录拦截，分布式ID（UUID）。<br>
     **项目职责**：负责全部的后端开发工作和部分前端工作。<br>
     **GitHub**：https://github.com/SAH01/blog-yang
+
+5. **科技查新数据分析系统**
+
+    **开发环境**：JDK1.8<br>
+    **软件架构**：SpringBoot + Redis + Vue + MySQL + Vue + Neo4j<br>
+    **项目角色**：全栈开发<br>
+    **项目描述**：科技查新数据分析系统针对科技报告和文献等数据进行处理和分析。对数据中的关键字段如科学技术要点、项目来源（地域）、项目隶属单位、项目年份、所属学科分类等展开研究。采用TF-IDF算法从科学技术要点中提取出项目的关键词信息，之后采用TextCNN文本分类模型进而完成对文献的学科领域归类。从中抽取单位、学科领域、项目、地域四个实体，选取Neo4j数据库完成科技文献知识图谱的构建工作。用户可以根据自己的需求输入一段查新要点，系统会自动完成关键词的提取以及归类。<br>
+    **技术概述**：前端：Vue、Axios、Echarts、Element UI 后端：SpringBoot、Redis、MySQL、Neo4j 技术：TF-IDF、Word2Vec词向量、TextCNN文本分类、知识图谱<br>
+    **GitHub**：[https://github.com/SAH01/blog-yang](https://github.com/SAH01/technology_novelty_search_data_analysis_system)
 
 ### Github Stats
 
