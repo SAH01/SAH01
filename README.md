@@ -26,7 +26,7 @@
 
 <br/>
 
-**我的公众号【靠谱杨阅读人生】**：<br/>
+**我的公众号【靠谱杨的秘密基地】**：<br/>
 
 <img align="left" alt="GIF" src="./images/qrcode.jpg" width="220" height="100%" />
 
