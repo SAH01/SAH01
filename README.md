@@ -14,8 +14,6 @@
 
 我的博客：
 
-[靠谱杨 - 博客园 (cnblogs.com)](https://www.cnblogs.com/rainbow-1)
-
 [靠谱杨-CSDN博客](https://blog.csdn.net/weixin_45556024?type=blog)
 
 :e-mail: : bitter_7@163.com
@@ -33,8 +31,10 @@
 > 专业核心课程：算法与数据结构，数据库原理，软件工程概论，统一建模语言，软件需求与分析，软件设计，软件体系架构，软件测试，软件过程与管理，操作系统，计算机网络。
 
 <hr>
-### 主页：
 
+<br/>
+<br/>
+<br/>
 - <a href="https://www.cnblogs.com/rainbow-1/"><code><img  height="30" src="./images/cnblogs.svg"></code></a>：500+篇技术文章，30万+阅读。<br>
 - <a href="https://gitee.com/yang-chuanwei"><code><img  height="30" src="./images/gitee-logo.svg"></code></a><br>
 
