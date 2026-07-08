@@ -26,23 +26,19 @@
 
 <br/>
 
-**我的公众号【靠谱杨的秘密基地】**：<br/>
 
-<img align="left" alt="GIF" src="./images/qrcode.jpg" width="220" height="100%" />
-
-<br>
 
 <hr>
 > CET4：545 / CET6：510
-> 专业核心课程：算法与数据结构，数据库原理，软件工程概论，统一建模语言，软件需求与分析，软件构造，人机交互技术，软件设计，软件体系结构，软件测试技术，软件过程与管理，操作系统，计算机网络。
+> 专业核心课程：算法与数据结构，数据库原理，软件工程概论，统一建模语言，软件需求与分析，软件设计，软件体系架构，软件测试，软件过程与管理，操作系统，计算机网络。
 
 <hr>
 ### 主页：
 
-- <a href="https://www.cnblogs.com/rainbow-1/"><code><img  height="30" src="./images/cnblogs.svg"></code></a>：发表 500+篇技术文章，25万+阅读。数十篇随笔被推荐至网站首页，多篇随笔被各大其他技术网站转载。<br>
+- <a href="https://www.cnblogs.com/rainbow-1/"><code><img  height="30" src="./images/cnblogs.svg"></code></a>：500+篇技术文章，30万+阅读。<br>
 - <a href="https://gitee.com/yang-chuanwei"><code><img  height="30" src="./images/gitee-logo.svg"></code></a><br>
 
-### 技术栈：
+### 技术：
 
 **Spring** <a href="https://spring.io/projects/spring-framework"><code><img height="25" src="./images/spring.svg"></code></a><br>
 **SpringBoot** <a href="https://spring.io/projects/spring-boot"><code><img height="25" src="./images/spring.svg"></code></a><br>
@@ -58,7 +54,7 @@
 **Hadoop** <a href="https://hadoop.apache.org/"><code><img height="25" src="./images/hadoop-logo.jpg"></code></a><br>
 **Linux** <a href="https://www.linux.org/"><code><img height="25" src="./images/linux-logo.png"></code></a><br>
 
-### 项目经历：
+### 项目：
 
 1. **树懒电影系统（软件著作权登记号2022SR0574174）**
     承担后端技术开发工作（数据爬取、分析，数据库设计、逻辑设计）<br>
